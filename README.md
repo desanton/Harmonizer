@@ -1,3 +1,5 @@
+Harmonizer is a prototype system to generate a chord progression (harmony) for a given melody.
+
 To run the Harmonizer prototype locally, follow the following 5 steps.
 Note that this prototype has only been tested on MacOS.
 
