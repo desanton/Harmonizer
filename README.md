@@ -1,6 +1,5 @@
+Harmonizer is a prototype system to generate a chord progression (harmony) for a given melody.
 
-
-============================================================================================================================
 To run the Harmonizer prototype locally, follow the following 5 steps.
 Note that this prototype has only been tested on MacOS.
 
@@ -75,5 +74,3 @@ Examples:
 
 As explained in the harmonizer.pdf paper, option = 3 and option = 5 work perfectly. 
 Options 0, 1, 2 work well but are not yet perfect. These options are a work in progress. 
-Option 4 is for development purposes, and can be used to generate output files without audio output.
-============================================================================================================================
