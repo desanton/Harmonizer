@@ -1,0 +1,79 @@
+========================================================================================================================
+~/projects/harmonizer/createHarmony $ ./harmonizer 3 melodyHBf.js
+
+key: F
+mode: major
+SCALE: F G A A# C D E 
+
+HARMONIZATION 1
+--------Schoenberg Minimum Method--------
+F F F F Cm7 Fm Fm Fm Fm Fm7 Bbm Bbm Bbm Bbm Ab7 Db Db Db Db Eb7 A A A A C7 F F F 
+
+HARMONIZATION 2
+--------Lydian mode harmonization--------
+F F G7 G7 F F G7 G7 F F F F 
+
+HARMONIZATION 3
+--------'Giant Steps' Method--------
+F Ebm Ab7 Db Db E7  A Gm C7 F Ebm Ab7 Db Db E7 A Gm C7 F Ebm Ab7 Db Db E7 A A C7 F F C7 F
+
+HARMONIZATION 4
+--------Simple Harmonization 1--------
+C C F C C C F C F Gm F F 
+
+HARMONIZATION 5
+--------Mixolydian mode harmonization--------
+F7 F7 Eb Eb F7 F7 Eb Eb F7 F7 F7 F7 
+
+HARMONIZATION 6
+--------Schoenberg Maximum Method--------
+F Am7 Dm Cm C C7 F D7 G Dm E7 A C#7 F# Eb Ebm7 Abm Bbm7 Ebm Fm7 Bbm Bb C Bbm7 Eb Cm7 Fm Cm Am A7 D C C7 F
+
+HARMONIZATION 7
+--------Simple Harmonization 2--------
+Am Am Bb Am Dm C Am Am Bb Am Edim Dm Am Am Am F F Dm C Bb C Bb Gm Gm F Dm Edim Dm
+
+
+
+
+
+
+========================================================================================================================
+~/projects/harmonizer/createHarmony $ ./harmonizer 3 melodyFEam.js
+key: A
+mode: minor
+SCALE: A B C D E F G 
+
+HARMONIZATION 1
+--------Schoenberg Minimum Method--------
+Am Am Am Am G7 C C C C C7 F F F F Cm7 Fm Fm Fm Fm Gm7 Cm Cm Cm Cm E7 Am Am Am 
+
+HARMONIZATION 2
+--------Phrygian Dominant mode harmonization--------
+Bb Bb A A Bb Bb A A Bb Bb Bb Bb
+
+HARMONIZATION 3
+--------'Giant Steps' Method--------
+Am Gdim Cm7 Fm Fm Ab7 C#m Bdim Em7 Am Gdim Cm7 Fm Fm  Abm7 Dbm Bdim Em7 Am Gdim Cm7 Fm Fm Abm7 C#m C#m Em7 Am Am Em7 Am 
+
+HARMONIZATION 4
+--------Simple Harmonization 1--------
+Em Em Em Am Em Am G Em Am Em Em Em Am Em Am G Em Am 
+
+HARMONIZATION 5
+--------Dorian mode harmonization--------
+Am B Am D Am B Am D Am B Am 
+
+HARMONIZATION 6
+--------Schoenberg Maximum Method--------
+Am E7 A Em Em7 Am F#m7 B A Abm7 C#m Fm7 Bbm Gm Bb7 Eb F7 Bb C7 F Dm G Dm7 Gm G7 C G E C#m7 F#m Em Em7 Am 
+
+
+HARMONIZATION 7
+--------Locrian mode harmonization--------
+
+Bb Bb Adim Adim Bb Bb Adim Adim Bb Bb Bb Bb
+
+HARMONIZATION 8
+--------Simple Harmonization 2--------
+C C C G Bdim Am F Am C F G C G Am C C C C G Bdim Am F Am C F G C Am G F 
