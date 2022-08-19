@@ -5,7 +5,7 @@ Note that this prototype has only been tested on MacOS.
 
 1. Install Node.js 
 
-Download from here: https://nodejs.org/en/download/
+         Download from here: https://nodejs.org/en/download/
 
 2. Initialize Node.js in Harmonizer directory
 
