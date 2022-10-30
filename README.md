@@ -1,5 +1,6 @@
 Harmonizer is a prototype system to generate a chord progression (harmony) for a given melody.
 
+The research paper is "harmonizer.pdf" in this repository.
 Video showcasing the results (timestamps in the description of the video): https://youtu.be/N9ExizulhUw
 
 To run the Harmonizer prototype locally, follow the following 5 steps.
